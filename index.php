@@ -5,7 +5,7 @@
             <p class="text-lg">This is the home page of our project. Explore our services and learn more about us.</p>
         </div>
         <div>
-            <img src="https://via.placeholder.com/400x300" alt="Placeholder Image" class="w-full h-72 rounded-lg shadow-md">
+            <img src="https://file.aiquickdraw.com/imgcompressed/img/compressed_66a08edb96177d3eebca1d6b2331ecfb.webp" alt="Placeholder Image" class="w-full h-72 rounded-lg shadow-md">
         </div>
     </div>
 
