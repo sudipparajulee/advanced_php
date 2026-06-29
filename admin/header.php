@@ -12,7 +12,7 @@
             <h1 class="text-xl font-bold mb-4 text-center">Admin Portal</h1>
             <nav class="flex flex-col space-y-2">
                 <a href="dashboard.php" class="block px-4 py-2 rounded hover:bg-gray-200">Dashboard</a>
-                <a href="" class="block px-4 py-2 rounded hover:bg-gray-200">Categories</a>
+                <a href="categories.php" class="block px-4 py-2 rounded hover:bg-gray-200">Categories</a>
                 <a href="" class="block px-4 py-2 rounded hover:bg-gray-200">News</a>
                 <a href="logout.php" class="block px-4 py-2 rounded hover:bg-gray-200">Logout</a>
             </nav>
